@@ -1,0 +1,36 @@
+GET http://localhost:5004/tasks/b5d94a7d-64dd-4bcd-8a0e-d7a53b21897b
+
+<> 2022-12-08T121127.200.json
+
+###
+
+GET http://localhost:5004/tasks/b5d94a7d-64dd-4bcd-8a0e-d7a53b21897b
+
+<> 2022-12-08T121119.200.json
+
+###
+
+POST http://localhost:5004/tasks
+Content-Type: application/json
+
+{"type": 1}
+
+<> 2022-12-08T121109.202.json
+
+###
+
+GET http://localhost:5004/tasks/cbcee8c7-f88e-42a8-ae91-2221dcd7f76b
+
+<> 2022-12-08T121101.200.json
+
+###
+
+POST http://localhost:5004/tasks
+Content-Type: application/json
+
+{"type": 0}
+
+<> 2022-12-08T121039.202.json
+
+###
+
